@@ -2,8 +2,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 int main(void)
 {
 	for (int row = 1; row <= 3; row++) {

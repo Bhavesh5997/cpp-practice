@@ -2,8 +2,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 int main(void)
 {
 	int numbers[] = {1, 2, 3, 4, 5};

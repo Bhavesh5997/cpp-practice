@@ -4,8 +4,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 int main(void)
 {
 	for (int number = 1; number <= 5; number++)
